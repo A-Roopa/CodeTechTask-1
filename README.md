@@ -33,10 +33,8 @@ The Iris dataset's EDA reveals significant insights into the structure, distribu
 ![Screenshot (26)](https://github.com/user-attachments/assets/0dcbcc8a-fb4a-478b-8c36-a0f6c0a2fb32)
 ![Screenshot (25)](https://github.com/user-attachments/assets/7f78d8f6-d620-4925-b95b-869c83f6845d)
 ![Screenshot (24)](https://github.com/user-attachments/assets/15b47cbd-ac9c-4957-b7e7-c324dd493d8c)
-![Screenshot (23)](https://github.com/user-attachments/assets/c5c55337-4f3e-4fb5-b406-f52a63b8c253)
-![Screenshot (22)](https://github.com/user-attachments/assets/04e85bd3-6142-4ffe-aba1-036baf73a90a)
-![Screenshot (21)](https://github.com/user-attachments/assets/42a71ebf-3638-45b5-a61a-b0a99b4f3d09)
-![Screenshot (20)](https://github.com/user-attachments/assets/64c11a8a-2c11-487a-8208-856d0643addc)
+
+
 
 
 
