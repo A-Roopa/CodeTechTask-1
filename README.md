@@ -28,11 +28,14 @@ Outcomes
 
 The Iris dataset's EDA reveals significant insights into the structure, distribution, and relationships of the features. Setosa is easily distinguishable by its smaller petal dimensions, while versicolor and virginica show some overlap in sepal dimensions but are separable by their petal features. The strong correlations between petal length and width are evident, aiding in species classification. Visualizations provide clear and distinct patterns that can be leveraged for further analysis or machine learning models.
 
+![Screenshot 2024-05-25 193218](https://github.com/user-attachments/assets/366cd8b7-1609-44b4-84e3-ce206dceb513)
+![Screenshot 2024-05-25 193218](https://github.com/user-attachments/assets/35cbb0e7-0a50-4c7d-ae11-2841803f31a2)
 
-![Screenshot (27)](https://github.com/user-attachments/assets/02358706-9623-4ded-b278-70f1a550981a)
-![Screenshot (26)](https://github.com/user-attachments/assets/0dcbcc8a-fb4a-478b-8c36-a0f6c0a2fb32)
-![Screenshot (25)](https://github.com/user-attachments/assets/7f78d8f6-d620-4925-b95b-869c83f6845d)
-![Screenshot (24)](https://github.com/user-attachments/assets/15b47cbd-ac9c-4957-b7e7-c324dd493d8c)
+![Screenshot (23)](https://github.com/user-attachments/assets/71af7c93-83a6-473d-af63-7c22aede12bb)
+![Screenshot (22)](https://github.com/user-attachments/assets/041d5fa0-bda1-4910-9cfa-4ca4f29cb3d3)
+![Screenshot (21)](https://github.com/user-attachments/assets/241028ab-ff8e-4e02-a80f-7c50961a9b26)
+![Screenshot (20)](https://github.com/user-attachments/assets/8a5a858e-5d6a-47fa-a0de-4b8f81e4e7c4)
+
 
 
 
